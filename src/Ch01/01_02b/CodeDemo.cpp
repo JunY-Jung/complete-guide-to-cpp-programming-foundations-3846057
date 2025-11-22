@@ -4,7 +4,11 @@
 
 #include <iostream>
 
-int main(){
+/*  This program prints
+    the message "Hi There!"
+    in the terminal output. */
+
+int main(){ //This is the Main function
     std::cout << "Hi There!" << std::endl;
 
     std::cout << std::endl <<std::endl;
